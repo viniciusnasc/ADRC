@@ -5,7 +5,7 @@ Simulador: OmNet++ v6.1 IDE (baseada em Eclipse IDE)
 Área de simulação: 600m X 600m
 Alcance do sinal: 50m
 Área de detecção e interferência: 100m
-Tamanho do pacote de dados 512 bytes
+Tamanho do pacote de dados 1024 bytes
 Intervalo de envio dos dados 1s
 Número de nós 25, 50 e 100
 Velocidade de movimentação 5m/s
