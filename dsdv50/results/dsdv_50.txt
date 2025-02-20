@@ -1,0 +1,11 @@
+
+Cenário com 50 nós com mobilidade constante e protocolo DSDV:
+
+Média do atraso: 88.33 ms
+
+Pacotes Recebidos: 12213 (100%)
+Recebidos com Sucesso: 9146 (74.89%)
+Pacotes Retransmitidos: 1735 (14.21%)
+Pacotes Retransmitidos: 1332 (10.91%)
+Recebidos com Erro: 3067 (25.11%)
+Último evento válido de simulação: 878390
