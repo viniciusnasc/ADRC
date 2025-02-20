@@ -14,7 +14,7 @@ Tempo de pausa 1s (constante)
 MAC layer 802.11
 Largura de banda 10Mbps
 
-Cada cenário possui um projeto individual para uma execução isolada sem aletração do script manualmente. No diretório results de cada cenário possui um script Python que lê os arquivos Scalars,
+Cada cenário possui um projeto individual para uma execução isolada sem alteração do script manualmente. No diretório results de cada cenário possui um script Python que lê os arquivos Scalars,
 Vectorials e de RoutingTable e coleta as métricas automaticamente após rodar a simulação executando o arquivo omnetpp.ini de cada cenário. No diretório raiz, também há um script que lê todos os
 arquivos de texto coletado através dos scripts individuais, concatenam e gera a saída para um arquivo de texto na raiz do diretório para facilitar uma possível análise geral.
 
