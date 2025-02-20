@@ -1,0 +1,11 @@
+
+Cenário com 100 nós com mobilidade constante e protocolo DSDV:
+
+Média do atraso: 34.69 ms
+
+Pacotes Recebidos: 56871 (100%)
+Recebidos com Sucesso: 49950 (87.83%)
+Pacotes Retransmitidos: 5519 (9.70%)
+Pacotes Não enderçados ao host: 1402 (2.47%)
+Recebidos com Erro: 6921 (12.17%)
+Último evento válido de simulação: 4696456
