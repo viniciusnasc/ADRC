@@ -1,0 +1,11 @@
+
+Cenário com 50 nós com mobilidade constante e protocolo AODV:
+
+Média do atraso: 53.72 ms
+
+Pacotes Recebidos: 29461 (100%)
+Recebidos com Sucesso: 20342 (69.05%)
+Pacotes Retransmitidos: 4468 (15.17%)
+Pacotes Não enderçados ao host: 4651 (15.79%)
+Recebidos com Erro: 9119 (30.95%)
+Último evento válido de simulação: 1841865
