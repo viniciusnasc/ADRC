@@ -1,0 +1,11 @@
+
+Cenário com 25 nós com mobilidade constante e protocolo AODV:
+
+Média do atraso: 90.29 ms
+
+Pacotes Recebidos: 3814 (100%)
+Recebidos com Sucesso: 3484 (91.35%)
+Pacotes Retransmitidos: 136 (3.57%)
+Pacotes Não enderçados ao host: 194 (5.09%)
+Recebidos com Erro: 330 (8.65%)
+Último evento válido de simulação: 359130
